@@ -1,0 +1,2 @@
+# cocos
+for android project
